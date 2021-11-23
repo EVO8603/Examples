@@ -1,0 +1,15 @@
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example005_ConditionElse/obj/Debug/net6.0/Example005_ConditionElse.csproj.AssemblyReference.cache
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example005_ConditionElse/obj/Debug/net6.0/Example005_ConditionElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example005_ConditionElse/obj/Debug/net6.0/Example005_ConditionElse.AssemblyInfoInputs.cache
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example005_ConditionElse/obj/Debug/net6.0/Example005_ConditionElse.AssemblyInfo.cs
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example005_ConditionElse/obj/Debug/net6.0/Example005_ConditionElse.csproj.CoreCompileInputs.cache
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example005_ConditionElse/bin/Debug/net6.0/Example005_ConditionElse
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example005_ConditionElse/bin/Debug/net6.0/Example005_ConditionElse.deps.json
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example005_ConditionElse/bin/Debug/net6.0/Example005_ConditionElse.runtimeconfig.json
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example005_ConditionElse/bin/Debug/net6.0/Example005_ConditionElse.dll
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example005_ConditionElse/bin/Debug/net6.0/ref/Example005_ConditionElse.dll
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example005_ConditionElse/bin/Debug/net6.0/Example005_ConditionElse.pdb
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example005_ConditionElse/obj/Debug/net6.0/Example005_ConditionElse.dll
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example005_ConditionElse/obj/Debug/net6.0/ref/Example005_ConditionElse.dll
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example005_ConditionElse/obj/Debug/net6.0/Example005_ConditionElse.pdb
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example005_ConditionElse/obj/Debug/net6.0/Example005_ConditionElse.genruntimeconfig.cache
