@@ -1,0 +1,15 @@
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example006_Base/bin/Debug/net6.0/Example006_Base
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example006_Base/bin/Debug/net6.0/Example006_Base.deps.json
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example006_Base/bin/Debug/net6.0/Example006_Base.runtimeconfig.json
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example006_Base/bin/Debug/net6.0/Example006_Base.dll
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example006_Base/bin/Debug/net6.0/ref/Example006_Base.dll
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example006_Base/bin/Debug/net6.0/Example006_Base.pdb
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example006_Base/obj/Debug/net6.0/Example006_Base.csproj.AssemblyReference.cache
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example006_Base/obj/Debug/net6.0/Example006_Base.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example006_Base/obj/Debug/net6.0/Example006_Base.AssemblyInfoInputs.cache
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example006_Base/obj/Debug/net6.0/Example006_Base.AssemblyInfo.cs
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example006_Base/obj/Debug/net6.0/Example006_Base.csproj.CoreCompileInputs.cache
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example006_Base/obj/Debug/net6.0/Example006_Base.dll
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example006_Base/obj/Debug/net6.0/ref/Example006_Base.dll
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example006_Base/obj/Debug/net6.0/Example006_Base.pdb
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example006_Base/obj/Debug/net6.0/Example006_Base.genruntimeconfig.cache
