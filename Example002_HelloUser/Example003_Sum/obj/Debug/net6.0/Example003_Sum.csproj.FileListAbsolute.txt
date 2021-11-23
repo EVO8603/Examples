@@ -1,0 +1,15 @@
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example002_HelloUser/Example003_Sum/bin/Debug/net6.0/Example003_Sum
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example002_HelloUser/Example003_Sum/bin/Debug/net6.0/Example003_Sum.deps.json
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example002_HelloUser/Example003_Sum/bin/Debug/net6.0/Example003_Sum.runtimeconfig.json
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example002_HelloUser/Example003_Sum/bin/Debug/net6.0/Example003_Sum.dll
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example002_HelloUser/Example003_Sum/bin/Debug/net6.0/ref/Example003_Sum.dll
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example002_HelloUser/Example003_Sum/bin/Debug/net6.0/Example003_Sum.pdb
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example002_HelloUser/Example003_Sum/obj/Debug/net6.0/Example003_Sum.csproj.AssemblyReference.cache
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example002_HelloUser/Example003_Sum/obj/Debug/net6.0/Example003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example002_HelloUser/Example003_Sum/obj/Debug/net6.0/Example003_Sum.AssemblyInfoInputs.cache
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example002_HelloUser/Example003_Sum/obj/Debug/net6.0/Example003_Sum.AssemblyInfo.cs
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example002_HelloUser/Example003_Sum/obj/Debug/net6.0/Example003_Sum.csproj.CoreCompileInputs.cache
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example002_HelloUser/Example003_Sum/obj/Debug/net6.0/Example003_Sum.dll
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example002_HelloUser/Example003_Sum/obj/Debug/net6.0/ref/Example003_Sum.dll
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example002_HelloUser/Example003_Sum/obj/Debug/net6.0/Example003_Sum.pdb
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example002_HelloUser/Example003_Sum/obj/Debug/net6.0/Example003_Sum.genruntimeconfig.cache
