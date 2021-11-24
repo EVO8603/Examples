@@ -1,0 +1,15 @@
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example007_magic/bin/Debug/net6.0/Example007_magic
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example007_magic/bin/Debug/net6.0/Example007_magic.deps.json
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example007_magic/bin/Debug/net6.0/Example007_magic.runtimeconfig.json
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example007_magic/bin/Debug/net6.0/Example007_magic.dll
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example007_magic/bin/Debug/net6.0/ref/Example007_magic.dll
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example007_magic/bin/Debug/net6.0/Example007_magic.pdb
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example007_magic/obj/Debug/net6.0/Example007_magic.csproj.AssemblyReference.cache
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example007_magic/obj/Debug/net6.0/Example007_magic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example007_magic/obj/Debug/net6.0/Example007_magic.AssemblyInfoInputs.cache
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example007_magic/obj/Debug/net6.0/Example007_magic.AssemblyInfo.cs
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example007_magic/obj/Debug/net6.0/Example007_magic.csproj.CoreCompileInputs.cache
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example007_magic/obj/Debug/net6.0/Example007_magic.dll
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example007_magic/obj/Debug/net6.0/ref/Example007_magic.dll
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example007_magic/obj/Debug/net6.0/Example007_magic.pdb
+/Users/eo/Documents/Мои документы/Развитие/Разработчик/Example/Example001_HelloConsole/Example007_magic/obj/Debug/net6.0/Example007_magic.genruntimeconfig.cache
